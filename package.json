@@ -1,16 +1,16 @@
 {
-  "name": "hypothesis-core",
+  "name": "fabric8-hypothesis-core",
   "version": "0.0.1",
   "description": "Shared libraries or utilities common to Hypothesis Driven Development components",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anmolbabu/hypothesis-core.git"
+    "url": "git+https://github.com/fabric8-hdd/fabric8-hypothesis-core.git"
   },
   "keywords": [],
   "author": "Anmol Babu <anmolbudugutta@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anmolbabu/hypothesis-core/issues"
+    "url": "https://github.com/fabric8-hdd/fabric8-hypothesis-core/issues"
   },
-  "homepage": "https://github.com/anmolbabu/hypothesis-core#readme"
+  "homepage": "https://github.com/fabric8-hdd/fabric8-hypothesis-core#readme"
 }
